@@ -1,1 +1,52 @@
-
+{
+  "wishes": [
+    {
+      "id": "001",
+      "text": "An Weihnachten werden Wünsche wahr! Darum wünsche ich dir Glück, Gesundheit, Zufriedenheit und ein erfolgreiches neues Jahr"
+    },
+    {
+      "id": "002",
+      "text": "Das größte Geschenk zum Weihnachtsfest tragen wir bereits in unseren Herzen! Liebe und Mitgefühl sind unbezahlbar und unser größtes Gut. Wir wünschen dir und deiner Familie liebevolle und friedliche Weihnachten!"
+    },
+    {
+      "id": "003",
+      "text": "Es ist Zeit zum Feiern und zum Versammeln. Ich hoffe das du deine Zeit mit den Personen verbringen kannst die dir am meisten bedeuten. Ein frohes und festliches Weihnachtsfest!"
+    },
+    {
+      "id": "004",
+      "text": "Gesegnete Weihnachten und ein glückliches neues Jahr!"
+    },
+    {
+      "id": "005",
+      "text": "Ich wünsche dir mehr Glück und gute Gesundheit an diesem Weihnachten."
+    },
+    {
+      "id": "006",
+      "text": "Möge das Funkeln und die Freude an Weihnachten Ihr Herz füllen. Ich wünsche Ihnen eine Zeit voller Glück und Fröhlichkeit."
+    },
+    {
+      "id": "007",
+      "text": "Weihnachten ist wieder da. Möge Ihr Zuhause voller Lachen, Zufriedenheit, Harmonie, Frieden und Fülle der Barmherzigkeit sein."
+    },
+    {
+      "id": "008",
+      "text": "Mögest du alles erhalten, was du dir wünschst und von dem du träumst. Möge dieses Weihnachten Ihnen alles bringen, was Sie im Leben brauchen. Fröhliche Weihnachten!"
+    },
+    {
+      "id": "009",
+      "text": "Ich wünsche Ihnen eine freudige Weihnachtszeit. Mögen Ihre Ferien in guten Beifall und unvergesslichen Momenten verbracht werden. Viel Spaß dieses Weihnachten!"
+    },
+    {
+      "id": "010",
+      "text": "Fröhliche Weihnachten! Möge Gott Ihr Leben an diesem Tag mit unbegrenztem Segen überschütten. Haben Sie eine wundervolle Zeit und machen Sie einige gute Erinnerungen!"
+    },
+    {
+      "id": "011",
+      "text": "Die Zeit zum Feiern und Sammeln beginnt gleich. Bereiten Sie sich darauf vor, das Beste dieses Jahres anzunehmen. Wünschen Ihnen ein frohes Weihnachtsfest!"
+    },
+    {
+      "id": "012",
+      "text": "Ich hoffe, dass diese festliche Jahreszeit Ihnen und Ihrer Familie viel Glück und Gesundheit bringt. Ich sende Ihnen einen sehr herzlichen Weihnachtswunsch!"
+    }
+  ]
+}
