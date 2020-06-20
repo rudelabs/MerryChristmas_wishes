@@ -1,1 +1,52 @@
-
+{
+  "wishes": [
+    {
+      "id": "001",
+      "text": "Que la ternura y la esperanza de la Navidad llene vuestros corazones de amor, paz, alegría y felicidad. ¡Feliz Navidad!"
+    },
+    {
+      "id": "002",
+      "text": "Paz, salud, amor, alegría y mucha felicidad. Que la estrella de Belén os ilumine con todos esos dones. ¡Feliz Navidad!"
+    },
+    {
+      "id": "003",
+      "text": "En estas fiestas tan entrañables deseamos que la paz, el amor y la alegría reine en vuestras vidas. ¡Feliz Navidad!"
+    },
+    {
+      "id": "004",
+      "text": "Con todo nuestro cariño, les deseamos que la magia de la Navidad los ilumine y los ayude a conseguir todos sus sueños. ¡Feliz Navidad!"
+    },
+    {
+      "id": "005",
+      "text": "Con nuestro cariño y mejores deseos para estas fiestas navideñas. ¡Feliz Navidad!"
+    },
+    {
+      "id": "006",
+      "text": "Que en esta Navidad el mejor regalo que recibas sea estar junto a tus seres queridos compartiendo paz, esperanza y alegría. ¡Feliz Navidad!"
+    },
+    {
+      "id": "007",
+      "text": "Quiero compartir contigo mis mejores deseos navideños de amor, paz y amistad. ¡Feliz Navidad!"
+    },
+    {
+      "id": "008",
+      "text": "Que tus segundos se llenen de magia, tus minutos de risa, tus horas de amor y en tu corazón crezcan la alegría, la paz y la esperanza. ¡Feliz Navidad!"
+    },
+    {
+      "id": "009",
+      "text": "Que en estas fiestas, la magia sea tu mejor traje, tu sonrisa el mejor regalo, tus ojos el mejor destino y tu felicidad mi mejor deseo. ¡Feliz Navidad!"
+    },
+    {
+      "id": "010",
+      "text": "Brindo por nuestra amistad y quiero que sepas que estoy muy feliz de tenerte entre mis amigos. ¡Feliz Navidad!"
+    },
+    {
+      "id": "011",
+      "text": "Feliz Navidad de parte de todos nosotros! ¡Aquí está una temporada de amor y armonía!"
+    },
+    {
+      "id": "012",
+      "text": "Abre el regalo de la felicidad y el amor esta Navidad. Y compártelos con los demás. ¡Que tengan una feliz y feliz Navidad!"
+    }
+  ]
+}
